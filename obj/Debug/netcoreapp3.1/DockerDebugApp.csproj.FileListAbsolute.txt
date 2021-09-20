@@ -1,0 +1,14 @@
+C:\Users\emichkarrane\Desktop\Playground\DockerDebugApp\bin\Debug\netcoreapp3.1\DockerDebugApp.exe
+C:\Users\emichkarrane\Desktop\Playground\DockerDebugApp\bin\Debug\netcoreapp3.1\DockerDebugApp.deps.json
+C:\Users\emichkarrane\Desktop\Playground\DockerDebugApp\bin\Debug\netcoreapp3.1\DockerDebugApp.runtimeconfig.json
+C:\Users\emichkarrane\Desktop\Playground\DockerDebugApp\bin\Debug\netcoreapp3.1\DockerDebugApp.runtimeconfig.dev.json
+C:\Users\emichkarrane\Desktop\Playground\DockerDebugApp\bin\Debug\netcoreapp3.1\DockerDebugApp.dll
+C:\Users\emichkarrane\Desktop\Playground\DockerDebugApp\bin\Debug\netcoreapp3.1\DockerDebugApp.pdb
+C:\Users\emichkarrane\Desktop\Playground\DockerDebugApp\obj\Debug\netcoreapp3.1\DockerDebugApp.csproj.AssemblyReference.cache
+C:\Users\emichkarrane\Desktop\Playground\DockerDebugApp\obj\Debug\netcoreapp3.1\DockerDebugApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emichkarrane\Desktop\Playground\DockerDebugApp\obj\Debug\netcoreapp3.1\DockerDebugApp.AssemblyInfoInputs.cache
+C:\Users\emichkarrane\Desktop\Playground\DockerDebugApp\obj\Debug\netcoreapp3.1\DockerDebugApp.AssemblyInfo.cs
+C:\Users\emichkarrane\Desktop\Playground\DockerDebugApp\obj\Debug\netcoreapp3.1\DockerDebugApp.csproj.CoreCompileInputs.cache
+C:\Users\emichkarrane\Desktop\Playground\DockerDebugApp\obj\Debug\netcoreapp3.1\DockerDebugApp.dll
+C:\Users\emichkarrane\Desktop\Playground\DockerDebugApp\obj\Debug\netcoreapp3.1\DockerDebugApp.pdb
+C:\Users\emichkarrane\Desktop\Playground\DockerDebugApp\obj\Debug\netcoreapp3.1\DockerDebugApp.genruntimeconfig.cache
