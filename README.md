@@ -1,3 +1,4 @@
+Debug remote App hosted in a docker container can be challenging to setup. This repo is going to get you up to speed on your debugging experience
 
 Check these docs for details on how Docker is setup:
 
